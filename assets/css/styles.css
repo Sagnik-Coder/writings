@@ -499,3 +499,12 @@ img{
         right: 5%;
     }
 }
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: crimson;
+    border-radius: 100px;
+}
