@@ -505,6 +505,6 @@ img{
 }
 
 ::-webkit-scrollbar-thumb {
-    background: crimson;
+    background: #dc143c;
     border-radius: 100px;
 }
